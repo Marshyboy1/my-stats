@@ -1,0 +1,53 @@
+body {
+  background-color: #002a7f; /* Deep Navy */
+  background-image: 
+    linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.1) 1px, transparent 1px);
+  background-size: 40px 40px; 
+  font-family: 'Space Mono', 'Courier New', monospace;
+  letter-spacing: 0.5px; 
+  text-transform: uppercase; 
+}
+
+h1 {
+  color: #00ffff; /* Aqua */
+  text-align: center;
+}
+p {
+  color: #00ffff; /* Aqua */
+}
+.info-on-projects {
+  color: #00ffff; /* Aqua */
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.window-1 {
+  color: #00ffff; /* Aqua */
+  text-align:left;
+  border: 2px solid #00ffff; /* Aqua */
+  padding: 10px;
+  margin: 10px;
+  display:inline-block
+}
+
+.window-2 {
+  color: #00ffff; /* Aqua */
+  text-align:left;
+  border: 2px solid #00ffff; /* Aqua */
+  padding: 10px;
+  margin: 10px;
+  display:inline-block
+}
+
+.window-3 {
+  color: #00ffff; /* Aqua */
+  text-align:left;
+  border: 2px solid #00ffff; /* Aqua */
+  padding: 10px;
+  margin: 10px;
+  display:inline-block
+}
